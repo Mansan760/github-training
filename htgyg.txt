@@ -10,3 +10,5 @@ git push -u origin main
 git remote add origin https://github.com/Mansan760/github-training.git
 git branch -M main
 git push -u origin main
+ok i am mansan 
+i am vary vary good boy
