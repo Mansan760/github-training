@@ -1,4 +1,3 @@
-ihuijhiu
 cho "# github-training" >> README.md
 git init
 git add README.md
@@ -10,5 +9,9 @@ git push -u origin main
 git remote add origin https://github.com/Mansan760/github-training.git
 git branch -M main
 git push -u origin main
-ok i am mansan 
-i am vary vary good boy
+ls --- checks files containing in the branch'
+git checkout -b \\man ----makes new branch
+git branch---checks branch
+git branch -d \\man ----delets branch
+git pull origin //branch name-- pulling files
+
